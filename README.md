@@ -80,6 +80,11 @@ Just begun: one photograph, and this plan.
 3D-printable base for vintage flatbed sewing machines, including the
 Singer 99K, with a knee controller of its own in design.
 
+## License
+
+MIT; see [LICENSE](LICENSE). Copyright © 2026 Robert Drzyzgula.
+This covers the photographs, measurements, model and write-up.
+
 ## Credits
 
 The machine and base belong to Robert Drzyzgula, who is examining,
